@@ -1,7 +1,7 @@
 # Deriv
 Free Bots and MT5/MT4 indicators for you all 🤩💰
 
-Join channel for more : https://t.me/deriv_and_binary_bots
+Join channel for more :  https://t.me/deriv_binary_forex_trading
 
 Download the bots for free
 
